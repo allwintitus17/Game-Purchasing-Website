@@ -1,0 +1,29 @@
+/*html{
+   
+    background-color: black;
+    justify-content: center;
+}
+body{
+    margin:0;
+}
+.flexcontainer{
+    font-family: 'Anton', sans-serif;
+    font-family: 'Play', sans-serif;
+        font-size: 30px;
+        height:80px;
+        text-align: center;
+        color: black;
+        display: flex;
+        padding: 20px;
+        background-color:aquamarine;
+        justify-content: center;
+}
+.btn{
+    border-radius: 30px;
+    background-color: darkcyan;
+    color:whitesmoke
+}*/
+
+p{
+    justify-content: center;   
+}
